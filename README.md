@@ -22,7 +22,7 @@ Hi I'm Ismael, Junior Full Stack Developer.
     <img height=45 width=40 src="https://user-images.githubusercontent.com/82605700/149985078-b7836186-cb6d-4333-921c-ffc513f2f726.png"/>
   </div>
 
-## Estatísticas
+## Stats
 
 <a href="https://github.com/ismaelsilvat">
   <img height="137px" src="https://github-readme-stats.vercel.app/api?username=ismaelsilvat&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=omni" />
