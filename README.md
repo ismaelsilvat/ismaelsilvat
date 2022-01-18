@@ -29,7 +29,7 @@ Hi I'm Ismael, Junior Full Stack Developer.
   <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismaelsilvat&hide=html,java&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=omni" />
 </a>
 
-## Contato
+## Contact
 
 <p>
   <a href="ismaelteixeiradas@gmail.com">
