@@ -1,7 +1,7 @@
 Hi I'm Ismael, Junior Full Stack Developer.
 
 <a href="https://github.com/nschloe/optimesh">
-  <img src="https://nschloe.github.io/optimesh/cvt-uniform-qnf.webp" align="right" width="20%"/>
+  <img src="https://64.media.tumblr.com/0e049e42cc00594ec0c4af998e735687/6480242982bcffc2-94/s540x810/7d6d2e855a24547f1b817af6675d95752bc1c597.gifv" align="right" width="20%"/>
 </a>
 
 ## Skills
