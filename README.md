@@ -24,7 +24,7 @@ Hi I'm Ismael, Junior Full Stack Developer.
 
 ## Stats
 
-<a href="https://github.com/ismaelsilvat">
+<a style="display: flex;" href="https://github.com/ismaelsilvat">
   <img height="137px" src="https://github-readme-stats.vercel.app/api?username=ismaelsilvat&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=false&line_height=21&theme=omni" />
   <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismaelsilvat&hide=html,java&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=omni" />
 </a>
