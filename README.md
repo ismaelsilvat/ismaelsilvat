@@ -25,19 +25,10 @@ Hi I'm Ismael, Junior Full Stack Developer.
 ## Stats
 
 <a href="https://github.com/ismaelsilvat">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=ismaelsilvat&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=omni" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=ismaelsilvat&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=false&line_height=21&theme=omni" />
   <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismaelsilvat&hide=html,java&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=omni" />
 </a>
 
-## Contact
-
-<p>
-  <a href="ismaelteixeiradas@gmail.com">
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-%23BB001B.svg?&style=for-the-badge&logo=Gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/ismaelsilvat">
-    <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
-  </a>
   <a href="https://www.linkedin.com/in/ismael-teixeira-da-silva/">
     <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
