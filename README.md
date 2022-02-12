@@ -30,6 +30,8 @@ Hi I'm Ismael, Junior Full Stack Developer.
     <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismaelsilvat&hide=html,java&hide_border=true&layout=compact&langs_count=6&theme=omni" />
 </div>
 
+## Contact
+
   <a href="https://www.linkedin.com/in/ismael-teixeira-da-silva/">
     <img height=25 alt="Linkedin" src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?&style=for-the-badge&logo=linkedin&logoColor=black"/>
   </a>
