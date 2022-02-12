@@ -19,8 +19,8 @@ Hi I'm Ismael, Junior Full Stack Developer.
     <img height=40 width=40  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
     <img height=40 width=40  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
     <img height=40 width=40  src="https://mccarter.gallerycdn.vsassets.io/extensions/mccarter/start-git-bash/1.2.1/1499505567572/Microsoft.VisualStudio.Services.Icons.Default" />
-    <img height=40 width=40  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
-    <img height=40 width=40  src="https://user-images.githubusercontent.com/82605700/149985078-b7836186-cb6d-4333-921c-ffc513f2f726.png"/>
+    <img height=40 width=35  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
+    <img height=40 width=35  src="https://user-images.githubusercontent.com/82605700/149985078-b7836186-cb6d-4333-921c-ffc513f2f726.png"/>
   </div>
 
 ## Stats
