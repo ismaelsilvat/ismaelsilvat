@@ -35,6 +35,6 @@ Hi I'm Ismael, Junior Full Stack Developer.
   <a href="https://www.linkedin.com/in/ismael-teixeira-da-silva/">
     <img height=25 alt="Linkedin" src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?&style=for-the-badge&logo=linkedin&logoColor=black"/>
   </a>
-  <a href="https://www.linkedin.com/in/ismael-teixeira-da-silva/">
+  <a href="https://api.whatsapp.com/send?1=pt_BR&phone=55048991891499">
     <img height=25 alt="Whatsapp" src="https://img.shields.io/badge/whatsapp-%2CB742.svg?&style=for-the-badge&logo=whatsapp&logoColor=black"/>
   </a>
