@@ -26,10 +26,8 @@ Hi I'm Ismael, Junior Full Stack Developer.
 ## Stats
 
 <div>
-  <a href="https://github.com/ismaelsilvat">
     <img src="https://github-readme-stats.vercel.app/api?username=ismaelsilvat&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=false&line_height=21&theme=omni" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismaelsilvat&hide=html,java&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=omni" />
-  </a>
 </div>
   <a href="https://www.linkedin.com/in/ismael-teixeira-da-silva/">
     <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
