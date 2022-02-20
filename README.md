@@ -1,4 +1,4 @@
-Hi I'm Ismael, Junior Full Stack JS Developer.
+Hi I'm Ismael, Junior Full Stack JS Developer.<br>
 ⁠"The issue is not knowing the codes or command lines, it is knowing what to do with them."
 
 ## Skills
