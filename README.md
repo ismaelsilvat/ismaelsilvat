@@ -1,4 +1,4 @@
-Hi I'm Ismael, Junior Full Stack Developer.
+Hi I'm Ismael, Junior Full JS Stack Developer.
 
 ## Skills
   <div>
