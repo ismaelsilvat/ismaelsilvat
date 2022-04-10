@@ -20,6 +20,7 @@ Hi I'm Ismael, Full Stack Developer.<br>
 ## Stats
 
 <div align="left">
+    <img height="155em" src="https://github-readme-stats.vercel.app/api?username=ismaelsilvat&hide_border=true&show_icons=true&include_all_commits=true&count_private=false&line_height=21&theme=omni" />
     <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismaelsilvat&hide=html,java&hide_border=true&layout=compact&langs_count=6&theme=omni" />
 </div>
 
