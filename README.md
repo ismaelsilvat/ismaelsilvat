@@ -3,8 +3,6 @@ Hi I'm Ismael, Full Stack Developer.<br>
 
 ## Skills
   <div>
-    <img height=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-    <img height=40 width=40  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
     <img height=40 width=40  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
     <img height=40 width=40  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
     <img height=40 width=40  src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" />
@@ -20,8 +18,6 @@ Hi I'm Ismael, Full Stack Developer.<br>
     <img height=40 width=40  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
     <img height=40 width=40  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
     <img height=40 width=40  src="https://mccarter.gallerycdn.vsassets.io/extensions/mccarter/start-git-bash/1.2.1/1499505567572/Microsoft.VisualStudio.Services.Icons.Default" />
-    <img height=40 width=35  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
-    <img height=40 width=35  src="https://user-images.githubusercontent.com/82605700/149985078-b7836186-cb6d-4333-921c-ffc513f2f726.png"/>
   </div>
 
 ## Stats
