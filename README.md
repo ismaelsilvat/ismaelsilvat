@@ -1,5 +1,9 @@
-Hi I'm Ismael, Full Stack Developer.<br>
-⁠"The issue is not knowing the codes or command lines, it is knowing what to do with them."
+  <h1 align="center">Hi I'm Ismael, Full Stack Developer.</h1>
+========================================================================================
+  <h4 align="center">⁠"The issue is not knowing the codes or command lines, it is knowing what to do with them." </h4>
+
+* 🖥️  See my portfolio at [Here](https://portfolioismael.netlify.app/)
+* ✉️  You can contact me at [ismaelteixeiradas@gmail.com](mailto:ismaelteixeiradas@gmail.com)
 
 ## Skills
   <div align="center">
@@ -19,16 +23,28 @@ Hi I'm Ismael, Full Stack Developer.<br>
 
 ## Stats
 
-<div align="left">
-    <img height="155em" src="https://github-readme-stats.vercel.app/api?username=ismaelsilvat&hide_border=true&show_icons=true&include_all_commits=true&count_private=false&line_height=21&theme=omni" />
-    <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismaelsilvat&hide=html,java&hide_border=true&layout=compact&langs_count=6&theme=omni" />
+<div align="center">
+    <a href="http://www.github.com/ismaelsilvat">
+    <img height="205rem" src="https://github-readme-stats.vercel.app/api?username=ismaelsilvat&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=14b8a6&bg_color=101010&hide_border=true&show_icons=true"      alt="Ismaelsilvat's GitHub stats" />
+    </a>
+    <img height="205rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismaelsilvat&hide=html,&title_color=6366f1&text_color=ffffff&icon_color=14b8a6&bg_color=111111&hide_border=true&layout=compact&show_icons=true" />
+    <a href="http://www.github.com/ismaelsilvat">
+      <img height="205rem" src="https://github-readme-streak-stats.herokuapp.com/?user=ismaelsilvat&stroke=f9f9f9&background=111111&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+      </a>
+
 </div>
 
 ## Contact
 
   <a href="https://www.linkedin.com/in/ismael-teixeira-da-silva/">
-    <img height=25 alt="Linkedin" src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?&style=for-the-badge&logo=linkedin&logoColor=black"/>
+    <img height="30rem" alt="Linkedin" src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?&style=for-the-badge&logo=linkedin&logoColor=black"/>
   </a>
   <a href="https://api.whatsapp.com/send?1=pt_BR&phone=55048991891499">
-    <img height=25 alt="Whatsapp" src="https://img.shields.io/badge/whatsapp-%2CB742.svg?&style=for-the-badge&logo=whatsapp&logoColor=black"/>
+    <img height="30rem" alt="Whatsapp" src="https://img.shields.io/badge/whatsapp-%2CB742.svg?&style=for-the-badge&logo=whatsapp&logoColor=black"/>
   </a>
+  
+
+
+
+
+
