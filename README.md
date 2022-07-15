@@ -22,7 +22,6 @@
   </div>
 
 ## Stats
-
 <div align="center">
     <a href="http://www.github.com/ismaelsilvat">
     <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=ismaelsilvat&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=14b8a6&bg_color=101010&hide_border=true&show_icons=true"      alt="Ismaelsilvat's GitHub stats" />
@@ -31,20 +30,12 @@
     <a href="http://www.github.com/ismaelsilvat">
       <img style="margin-right: 30px;" height="185rem" src="https://github-readme-streak-stats.herokuapp.com/?user=ismaelsilvat&stroke=f9f9f9&background=111111&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
       </a>
-
 </div>
 
 ## Contact
-
   <a href="https://www.linkedin.com/in/ismael-teixeira-da-silva/">
     <img height="30rem" alt="Linkedin" src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?&style=for-the-badge&logo=linkedin&logoColor=black"/>
   </a>
   <a href="https://api.whatsapp.com/send?1=pt_BR&phone=55048991891499">
     <img height="30rem" alt="Whatsapp" src="https://img.shields.io/badge/whatsapp-%2CB742.svg?&style=for-the-badge&logo=whatsapp&logoColor=black"/>
   </a>
-  
-
-
-
-
-
