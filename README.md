@@ -8,7 +8,6 @@
 * ✉️  You can contact me at [ismaelteixeiradas@gmail.com](mailto:ismaelteixeiradas@gmail.com)
 
 ## Skills
-
   <div align="center">
     <img height=40 width=40  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
     <img height=40 width=40  src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" />
