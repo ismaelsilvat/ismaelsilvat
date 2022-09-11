@@ -8,7 +8,6 @@
 * ✉️  You can contact me at [ismaelteixeiradas@gmail.com](mailto:ismaelteixeiradas@gmail.com)
 
 ## Skills
-
   <div align="center">
     <img height=40 width=40  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
     <img height=40 width=40  src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" />
@@ -28,7 +27,6 @@
   </div>
 
 ## Stats
-
 <div align="center">
     <a href="http://www.github.com/ismaelsilvat">
     <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=ismaelsilvat&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=14b8a6&bg_color=101010&hide_border=true&show_icons=true" alt="Ismaelsilvat's GitHub stats" />
@@ -40,7 +38,6 @@
 </div>
 
 ## Contact
-
   <a href="https://www.linkedin.com/in/ismael-teixeira-da-silva/">
     <img height="30rem" alt="Linkedin" src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?&style=for-the-badge&logo=linkedin&logoColor=black"/>
   </a>
