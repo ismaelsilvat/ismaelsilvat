@@ -1,5 +1,5 @@
   <h1 align="center">Hi I'm Ismael, Full Stack Developer.</h1>
-========================================================================================
+================================================================================================
   <h4 align="center">
   ⁠"The issue is not knowing the codes or command lines, it is knowing what to do with them." </h4>
   
