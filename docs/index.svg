@@ -1,5 +1,5 @@
 
-    <svg id="text" width="75%" height="75%"  preserveAspectRatio="xMinYMin meet"  viewBox="0 0 1169 115" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <svg id="text" width="50%" height="100rem"  preserveAspectRatio="xMinYMin meet"  viewBox="0 0 1169 115" fill="none" xmlns="http://www.w3.org/2000/svg">
         <path d="M97.2266 110H70.2266V63.875H30.3594V110H3.35938V5.30469H30.3594V43.625H70.2266V5.30469H97.2266V110Z" stroke="white" stroke-width="5" stroke-linecap="square"/>
         <path d="M199.742 110H124.016V5.30469H199.742V25.5547H150.875V43.625H196.227V63.875H150.875V89.75H199.742V110Z" stroke="white" stroke-width="5" stroke-linecap="square"/>
         <path d="M297.969 110H222.453V5.30469H249.453V89.75H297.969V110Z" stroke="white" stroke-width="5" stroke-linecap="square"/>
