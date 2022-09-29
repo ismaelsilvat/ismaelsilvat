@@ -1,12 +1,15 @@
-![](./docs/index.svg)
+<div display="center" align="center" justify="center">
+  <img src="./docs/index.svg" height="50rem"></img>
+</div>
+
 <div display="center" align="center">
-
 ========================================================================================
-
 </div>
 
   <h4 align="center">
   ⁠"The issue is not knowing the codes or command lines, it is knowing what to do with them." </h4>
+
+##
   
 * 🖥️  See my portfolio at [Here](https://portfolioismael.netlify.app/)
 
@@ -15,7 +18,6 @@
 ## Stats
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
-
 
 ## Contact
   <a href="https://www.linkedin.com/in/ismael-teixeira-da-silva/">
