@@ -1,5 +1,5 @@
 <div display="center" align="center" justify="center">
-  <img src="./docs/index.svg" height="50rem"></img>
+  <img src="./docs/index.svg" height="30rem"></img>
 </div>
 
 <div display="center" align="center">
