@@ -12,7 +12,6 @@
 ##
   
 * 🖥️  See my portfolio at [Here](https://portfolioismael.netlify.app/)
-
 * ✉️  You can contact me at [ismaelteixeiradas@gmail.com](mailto:ismaelteixeiradas@gmail.com)
 
 ## Stats
