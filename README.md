@@ -9,7 +9,7 @@
   ⁠"The issue is not knowing the codes or command lines, it is knowing what to do with them." </h4>
 
 ##
-* 🖥️  See my portfolio at [Here](https://portfolioismael.netlify.app/)
+* 🖥️  See my portfolio at [Here](https://portfolioismael2v.netlify.app/)
 * ✉️  You can contact me at [ismaelteixeiradas@gmail.com](mailto:ismaelteixeiradas@gmail.com)
 
 ## Stats
