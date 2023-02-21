@@ -3,7 +3,6 @@
   <img src="./docs/index.svg" height="30rem"></img>
 </div>
 
-
 <div display="center" align="center">
 =======================================================================================
 </div>
